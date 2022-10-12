@@ -24,9 +24,9 @@ for i in range(1):
     
     baza = wizy( name=a, surname=b, firm=c, position=d, email=e)
         
-    bs.append(baza.name, baza.surname, baza.firm, baza.position, baza.email)
-    print(bs)
+ #  bs.append(baza.name, baza.surname, baza.firm, baza.position, baza.email)
+ #   print(bs)
  #   by_name = sorted(bs)
- #   print(sorted(baza, key=lambda baza: baza.name), baza.surname, baza.email)
+    print(baza.name, baza.surname, baza.email)
 
  
